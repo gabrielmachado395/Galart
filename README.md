@@ -1,6 +1,7 @@
 # Galart
 Um projeto sendo desenvolvido em Django que tem como objetivo ser uma espécie de Museu Virtual.
 
+# Informações Tecnicas
 * O projeto está utilizando uma base de Dados MySQL com um servidor Xampp.
 
 * No Back-End utilizo Python e Django.
